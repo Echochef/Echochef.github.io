@@ -35,7 +35,7 @@ I have also been fortunate to win **7 First-Place** and **8 Second-Place** award
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/icml2026_fig6.jpg' alt="VideoSEAL scaling properties on LVBench: Decoupled (Ours) keeps gaining with both search budget and MLLM capacity, while coupled baselines plateau." width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/icml2026_arch.jpg' alt="Architectural comparison between the coupled agent and the decoupled agent." width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Mitigating Evidence Misalignment in Agentic Long Video Understanding by Decoupling Answer Authority](https://arxiv.org/abs/2605.12571)
