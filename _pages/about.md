@@ -8,18 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
 I am **Chenhao Qiu (邱晨浩)**, currently an AI Researcher in the Foundation Model Research Group at **Mango TV**. I received my M.Eng. in Software Engineering from **Huazhong University of Science and Technology (HUST)** in 2025, and my B.Eng. in Software Engineering from **Nanchang University** in 2022.
 
-My research interests center on **MLLM Agents**, **Agentic Reinforcement Learning**, **LLM Reasoning**, and **Long Video Understanding**. I am particularly interested in how multimodal large language models can be turned into reliable agents — closing the gap between the evidence they observe and the answers they produce. My first-author work on this question has been accepted at **ICML 2026**. <a href='https://scholar.google.com/citations?user=iZ4xW6oAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+My research interests center on **MLLM Agents**, **Agentic Reinforcement Learning**, **LLM Reasoning**, and **Long Video Understanding**. I am particularly interested in how multimodal large language models can be turned into reliable agents — closing the gap between the evidence they observe and the answers they produce. My first-author work on this question has been accepted at **ICML 2026**.
 
 Before joining Mango TV, I worked as an Algorithm Intern on foundation model SFT teams at **Tencent (Hunyuan)** and **Meituan (Longcat)**, where I shipped role-playing capabilities that took the Hunyuan base model to **#1 domestic / #2 overall** on the SuperClue role-playing benchmark, and contributed to large-scale alignment pipelines fine-tuning 70B+ models.
 
