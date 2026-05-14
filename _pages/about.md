@@ -47,6 +47,7 @@ I have also been fortunate to win **7 First-Place** and **8 Second-Place** award
 - Identifies a structural bottleneck — **evidence misalignment** — in current MLLM agents for long-video QA: agents commit to answers that drift away from the visual evidence they cite.
 - Proposes an **authority-decoupling** framework that separates evidence retrieval from answer generation, so the answering module no longer overrides the agent's grounded findings.
 - Distilled from real-world industrial long-video pipelines and validated with extensive rigorous experiments across multiple long-video QA benchmarks.
+
 </div>
 </div>
 
