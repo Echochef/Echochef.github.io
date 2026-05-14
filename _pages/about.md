@@ -47,7 +47,7 @@ I have also been fortunate to win **7 First-Place** and **8 Second-Place** award
 - Proposes an **authority-decoupling** framework that separates evidence retrieval from answer generation, so the answering module no longer overrides the agent's grounded findings.
 - Distilled from real-world industrial long-video pipelines and validated with extensive rigorous experiments across multiple long-video QA benchmarks.
 
-  </div>
+</div>
 </div>
 
 **Selected Manuscripts / In Progress**
