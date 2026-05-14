@@ -68,7 +68,10 @@ I have also been fortunate to win **7 First-Place** and **8 Second-Place** award
 - *2025* — **1st Place**, Tencent Advertising Algorithm Competition. Rank **1 / 8300+**, prize ≈ **$280,000**.
 - *2025* — **1st Place**, ICCV Challenge on Visual Question Answering with Spatial Awareness.
 - *2025* — **2nd Place**, Pazhou Algorithm Competition — LLM Reasoning Optimization via PPO + PRM.
+- *2024* — **1st Place**, Mango TV Large Model Competition — Logical Reasoning Track. **Team Captain**, prize ≈ **$33,000** (¥240K).
+- *2024* — **1st Place**, ATEC 2024 Online Competition — Track 4.
 - *2024* — **1st Place**, ATEC Challenge on Large Model Application and Security. Prize ≈ **$140,000**.
+- *2023* — **1st Place**, 4th SEED Competition — Healthcare Track. **Team Captain**, prize ≈ **$11,000** (¥80K).
 
 # 📖 Educations
 - *2022.09 – 2025.06*, **M.Eng. in Software Engineering**, Huazhong University of Science and Technology (HUST), Wuhan, China.
