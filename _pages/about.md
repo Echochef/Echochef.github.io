@@ -23,7 +23,7 @@ My research interests center on **MLLM Agents**, **Agentic Reinforcement Learnin
 
 Before joining Mango TV, I worked as an Algorithm Intern on foundation model SFT teams at **Tencent (Hunyuan)** and **Meituan (Longcat)**, where I shipped role-playing capabilities that took the Hunyuan base model to **#1 domestic / #2 overall** on the SuperClue role-playing benchmark, and contributed to large-scale alignment pipelines fine-tuning 70B+ models.
 
-I have also been fortunate to win **7 First-Place** and **8 Second-Place** awards in major AI competitions, with cumulative prize money exceeding **$530,000**.
+I have also been fortunate to win **7 First-Place** awards in major AI competitions, with cumulative prize money exceeding **$530,000**.
 
 
 # 🔥 News
@@ -62,16 +62,15 @@ I have also been fortunate to win **7 First-Place** and **8 Second-Place** award
 - *WISDOM: Progressive Curriculum Synthesis Makes LLMs Better Mathematical Reasoners* — **Chenhao Qiu** *et al.* Submitted to ICLR 2025 (review scores 6/6/6/1). A 3-stage iterative curriculum synthesis pipeline (Weak Teacher Guiding → Critical Expert Teaching → Experts Consistency Voting); WISDOM-7B reaches 62.4% on MATH and 2/30 on AIME 2024; trained on an 88×A100 cluster.
 
 # 🎖 Honors and Awards
-**Competition record: 7 × 1st Place, 8 × 2nd Place, cumulative prizes ≈ $530,000.** Selected highlights below.
+**Competition record: 7 × 1st Place, cumulative prizes ≈ $530,000.** Selected highlights below.
 
 - *2026* — **1st Place**, CVPR NTIRE Challenge on X-AIGC Quality Assessment in Image Editing.
 - *2025* — **1st Place**, Tencent Advertising Algorithm Competition. Rank **1 / 8300+**, prize ≈ **$280,000**.
 - *2025* — **1st Place**, ICCV Challenge on Visual Question Answering with Spatial Awareness.
-- *2025* — **2nd Place**, Pazhou Algorithm Competition — LLM Reasoning Optimization via PPO + PRM.
-- *2024* — **1st Place**, Mango TV Large Model Competition — Logical Reasoning Track. **Team Captain**, prize ≈ **$33,000** (¥240K).
+- *2024* — **1st Place**, Mango TV Large Model Competition — Logical Reasoning Track. Prize ≈ **$33,000** (¥240K).
 - *2024* — **1st Place**, ATEC 2024 Online Competition — Track 4.
 - *2024* — **1st Place**, ATEC Challenge on Large Model Application and Security. Prize ≈ **$140,000**.
-- *2023* — **1st Place**, 4th SEED Competition — Healthcare Track. **Team Captain**, prize ≈ **$11,000** (¥80K).
+- *2023* — **1st Place**, 4th SEED Competition — Healthcare Track. Prize ≈ **$11,000** (¥80K).
 
 # 📖 Educations
 - *2022.09 – 2025.06*, **M.Eng. in Software Engineering**, Huazhong University of Science and Technology (HUST), Wuhan, China.
