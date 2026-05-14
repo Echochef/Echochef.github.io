@@ -28,8 +28,14 @@ I have also been fortunate to win **7 First-Place** and **8 Second-Place** award
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/icml2026_arch.jpg' alt="Architectural comparison between the coupled agent and the decoupled agent." width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">ICML 2026</div>
+      <img src="images/icml2026_arch.jpg" alt="Architectural comparison between the coupled agent and the decoupled agent." width="100%" />
+    </div>
+  </div>
+  <div class="paper-box-text" markdown="1">
 
 [Mitigating Evidence Misalignment in Agentic Long Video Understanding by Decoupling Answer Authority](https://arxiv.org/abs/2605.12571)
 
@@ -41,7 +47,7 @@ I have also been fortunate to win **7 First-Place** and **8 Second-Place** award
 - Proposes an **authority-decoupling** framework that separates evidence retrieval from answer generation, so the answering module no longer overrides the agent's grounded findings.
 - Distilled from real-world industrial long-video pipelines and validated with extensive rigorous experiments across multiple long-video QA benchmarks.
 
-</div>
+  </div>
 </div>
 
 **Selected Manuscripts / In Progress**
