@@ -35,8 +35,14 @@ I have also been fortunate to win **7 First-Place** and **8 Second-Place** award
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/icml2026_framework.jpg' alt="Overview of the decoupled planner–inspector framework that separates evidence retrieval from answer authority." width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div style="border-bottom:1px #efefef solid; padding:2em 0;">
+  <div style="position:relative; margin-bottom:1em;">
+    <div class="badge" style="position:absolute; top:8px; left:8px; z-index:2;">ICML 2026</div>
+    <img src="images/icml2026_framework.jpg"
+         alt="Overview of the decoupled planner–inspector framework that separates evidence retrieval from answer authority."
+         style="width:100%; max-width:100%; box-shadow:3px 3px 6px #888; display:block;">
+  </div>
+  <div markdown="1">
 
 [Mitigating Evidence Misalignment in Agentic Long Video Understanding by Decoupling Answer Authority](https://arxiv.org/abs/2605.12571)
 
@@ -47,7 +53,8 @@ I have also been fortunate to win **7 First-Place** and **8 Second-Place** award
 - Identifies a structural bottleneck — **evidence misalignment** — in current MLLM agents for long-video QA: agents commit to answers that drift away from the visual evidence they cite.
 - Proposes an **authority-decoupling** framework that separates evidence retrieval from answer generation, so the answering module no longer overrides the agent's grounded findings.
 - Distilled from real-world industrial long-video pipelines and validated with extensive rigorous experiments across multiple long-video QA benchmarks.
-</div>
+
+  </div>
 </div>
 
 **Selected Manuscripts / In Progress**
