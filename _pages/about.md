@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am **Chenhao Qiu (邱晨皓)**, currently an AI Researcher in the Foundation Model Research Group at **Mango TV**. I received my M.Eng. in Software Engineering from **Huazhong University of Science and Technology (HUST)** in 2025, and my B.Eng. in Software Engineering from **Nanchang University** in 2022.
+I am **Chenhao Qiu (邱晨浩)**, currently an AI Researcher in the Foundation Model Research Group at **Mango TV**. I received my M.Eng. in Software Engineering from **Huazhong University of Science and Technology (HUST)** in 2025, and my B.Eng. in Software Engineering from **Nanchang University** in 2022.
 
 My research interests center on **MLLM Agents**, **Agentic Reinforcement Learning**, **LLM Reasoning**, and **Long Video Understanding**. I am particularly interested in how multimodal large language models can be turned into reliable agents — closing the gap between the evidence they observe and the answers they produce. My first-author work on this question has been accepted at **ICML 2026**. <a href='https://scholar.google.com/citations?user=iZ4xW6oAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
@@ -33,7 +33,7 @@ I have also been fortunate to win **7 First-Place** and **8 Second-Place** award
 - *2025.07*: &nbsp;🚀 Started as an AI Researcher in the Foundation Model Research Group at **Mango TV**.
 - *2025.06*: &nbsp;🏆 Won **1st Place** at the **Tencent Advertising Algorithm Competition** (1 / 8300+, prize ≈ $280K).
 
-# 📝 Publications 
+# 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/icml2026_arch.jpg' alt="Architectural comparison between the coupled agent and the decoupled agent." width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -54,7 +54,7 @@ I have also been fortunate to win **7 First-Place** and **8 Second-Place** award
 
 - *WISDOM: Progressive Curriculum Synthesis Makes LLMs Better Mathematical Reasoners* — **Chenhao Qiu** *et al.* Submitted to ICLR 2025 (review scores 6/6/6/1). A 3-stage iterative curriculum synthesis pipeline (Weak Teacher Guiding → Critical Expert Teaching → Experts Consistency Voting); WISDOM-7B reaches 62.4% on MATH and 2/30 on AIME 2024; trained on an 88×A100 cluster.
 
-# 🎖 Honors and Awards
+# 🎖️ Honors and Awards
 **Competition record: 7 × 1st Place, 8 × 2nd Place, cumulative prizes ≈ $530,000.** Selected highlights below.
 
 - *2026* — **1st Place**, CVPR NTIRE Challenge on X-AIGC Quality Assessment in Image Editing.
@@ -65,7 +65,7 @@ I have also been fortunate to win **7 First-Place** and **8 Second-Place** award
 - *2024* — **1st Place**, ATEC Challenge on Large Model Application and Security. Prize ≈ **$140,000**.
 - *2023* — **1st Place**, 4th SEED Competition — Healthcare Track. Prize ≈ **$11,000** (¥80K).
 
-# 📖 Educations
+# 📖 Education
 - *2022.09 – 2025.06*, **M.Eng. in Software Engineering**, Huazhong University of Science and Technology (HUST), Wuhan, China.
 - *2018.09 – 2022.06*, **B.Eng. in Software Engineering**, Nanchang University, Nanchang, China.
 
@@ -85,7 +85,7 @@ I have also been fortunate to win **7 First-Place** and **8 Second-Place** award
   - Contributed to an in-house Megatron-based distributed training framework — **4× training speedup**; fine-tuned Qwen1.5-72B, Yi-34B, Llama2-70B.
   - Built an RLHF pipeline (DPO, PPO) on top of SFT models and a robust bad-case analysis loop for continuous iteration.
 
-# 🛠 Skills & Interests
+# 🛠️ Skills & Interests
 - **AI-assisted Engineering** — daily user of Claude / Codex for prototyping, refactoring, and full-system development; pair coding with careful design, testing, and engineering discipline.
 - **Full-stack independent projects** — designed, built, and shipped *PaperAgent* end-to-end (algorithmic pipeline, backend, database, iOS client) for AI-assisted paper retrieval, citation mining, and personalized daily literature recommendations.
 - **Beyond research** — long-distance solo travel; it has sharpened my independence, adaptability, and problem-solving in unfamiliar environments.
