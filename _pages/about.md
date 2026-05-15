@@ -22,9 +22,9 @@ I have also been fortunate to win **7 First-Place** and **8 Second-Place** award
 # 🔥 News
 - *2026.05*: &nbsp;🎉 Our paper *Mitigating Evidence Misalignment in Agentic Long Video Understanding by Decoupling Answer Authority* is accepted by **ICML 2026** as a Poster.
 - *2026.03*: &nbsp;🏆 Won **1st Place** at the **CVPR 2026 NTIRE Challenge** on X-AIGC Quality Assessment in Image Editing.
+- *2025.11*: &nbsp;🏆 Won **1st Place** at the **Tencent Advertising Algorithm Competition** (1 / 8300+, prize ≈ $280K).
 - *2025.09*: &nbsp;🏆 Won **1st Place** at the **ICCV 2025 Challenge** on Visual Question Answering with Spatial Awareness.
 - *2025.07*: &nbsp;🚀 Started as an AI Researcher in the Foundation Model Research Group at **Mango TV**.
-- *2025.06*: &nbsp;🏆 Won **1st Place** at the **Tencent Advertising Algorithm Competition** (1 / 8300+, prize ≈ $280K).
 
 # 📝 Publications
 
@@ -63,7 +63,7 @@ I have also been fortunate to win **7 First-Place** and **8 Second-Place** award
 - *2024* — **1st Place**, Mango TV Large Model Competition — Logical Reasoning Track. Prize ≈ **$33,000** (¥240K).
 - *2024* — **1st Place**, ATEC 2024 Online Competition — Track 4.
 - *2024* — **1st Place**, ATEC Challenge on Large Model Application and Security. Prize ≈ **$140,000**.
-- *2023* — **1st Place**, 4th SEED Competition — Healthcare Track. Prize ≈ **$11,000** (¥80K).
+- *2024* — **1st Place**, 4th SEED Competition — Healthcare Track. Prize ≈ **$11,000** (¥80K).
 
 # 📖 Education
 - *2022.09 – 2025.06*, **M.Eng. in Software Engineering**, Huazhong University of Science and Technology (HUST), Wuhan, China.
