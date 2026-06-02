@@ -1,3 +1,12 @@
 _site/
 push.sh
 .DS_Store
+
+# ML experiment outputs (kept outside the repo; ignored as a safety net)
+/8297*/
+/847_*/
+/8485_*/
+/8486_*/
+/analysis/
+/baselines/
+/best/
