@@ -10,13 +10,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am **Chenhao Qiu (邱晨浩)**, currently an AI Researcher in the Foundation Model Research Group at **Mango TV**. I received my M.Eng. in Software Engineering from **Huazhong University of Science and Technology (HUST)** in 2025, and my B.Eng. in Software Engineering from **Nanchang University** in 2022.
+I am **Chenhao Qiu (邱晨浩)**, an AI researcher studying **misalignment in agentic systems** — and increasingly in **agentic reinforcement learning**: why an agent's actions and answers drift away from the evidence and objectives it is meant to follow, and how to pull them back into alignment. My first-author work on *decoupling answer authority* in long-video agents appears at **ICML 2026**.
 
-My research interests center on **MLLM Agents**, **Agentic Reinforcement Learning**, **LLM Reasoning**, and **Long Video Understanding**. I am particularly interested in how multimodal large language models can be turned into reliable agents — closing the gap between the evidence they observe and the answers they produce. My first-author work on this question has been accepted at **ICML 2026**.
+My path into research ran through competition rather than the lab. I spent most of my master's deep in **algorithm contests**, working across nearly the full stack of machine learning — from traditional **data mining** and **time-series** modeling to **computer vision**, **NLP**, and, more recently, **large language and multimodal models**. Competing across so many directions is where my taste for research took shape: I kept hitting questions the leaderboard could not answer. It was only after starting full-time work that I finally had the room to chase those questions properly and turn them into papers — **ICML 2026** is the first.
 
-Before joining Mango TV, I worked as an Algorithm Intern on foundation model SFT teams at **Tencent (Hunyuan)** and **Meituan (Longcat)**, where I shipped role-playing capabilities that took the Hunyuan base model to **#1 domestic / #2 overall** on the SuperClue role-playing benchmark, and contributed to large-scale alignment pipelines fine-tuning 70B+ models.
+Today I research at the Foundation Model Research Group at **Mango TV**, after algorithm internships on the foundation-model SFT teams at **Tencent (Hunyuan)** and **Meituan (Longcat)** (details in *Work Experience* and *Internships* below). That competitive breadth still shows on the record: **8 First-Place** and **8 Second-Place** finishes in major AI contests, with cumulative prizes exceeding **$530,000**.
 
-I have also been fortunate to win **7 First-Place** and **8 Second-Place** awards in major AI competitions, with cumulative prize money exceeding **$530,000**.
+> **I am applying to PhD programs in North America for Fall 2027, and I am actively seeking research collaborations and research internship opportunities.** Feel free to reach out — my contact details are at the bottom of this page.
 
 
 # 🔥 News
@@ -55,7 +55,7 @@ I have also been fortunate to win **7 First-Place** and **8 Second-Place** award
 - *WISDOM: Progressive Curriculum Synthesis Makes LLMs Better Mathematical Reasoners* — **Chenhao Qiu** *et al.* Submitted to ICLR 2025 (review scores 6/6/6/1). A 3-stage iterative curriculum synthesis pipeline (Weak Teacher Guiding → Critical Expert Teaching → Experts Consistency Voting); WISDOM-7B reaches 62.4% on MATH and 2/30 on AIME 2024; trained on an 88×A100 cluster.
 
 # 🎖️ Honors and Awards
-**Competition record: 7 × 1st Place, 8 × 2nd Place, cumulative prizes ≈ $530,000.** Selected highlights below.
+**Competition record: 8 × 1st Place, 8 × 2nd Place, cumulative prizes ≈ $530,000.** Selected highlights below.
 
 - *2026* — **1st Place**, CVPR NTIRE Challenge on X-AIGC Quality Assessment in Image Editing.
 - *2025* — **1st Place**, Tencent Advertising Algorithm Competition. Rank **1 / 8300+**, prize ≈ **$280,000**.
@@ -64,6 +64,15 @@ I have also been fortunate to win **7 First-Place** and **8 Second-Place** award
 - *2024* — **1st Place**, ATEC 2024 Online Competition — Track 4.
 - *2024* — **1st Place**, ATEC Challenge on Large Model Application and Security. Prize ≈ **$140,000**.
 - *2024* — **1st Place**, 4th SEED Competition — Healthcare Track. Prize ≈ **$11,000**.
+- *2025* — **1st Place**, China Telecom Cloud "Xirang Cup" Collegiate AI Competition — Online Round, LLM Mathematical Reasoning Track.
+- *2025* — **2nd Place**, China Telecom Cloud "Xirang Cup" Collegiate AI Competition — National Finals.
+- *2025* — **2nd Place**, Pazhou Algorithm Competition; recognized with an individual Letter of Appreciation issued as an official government document by the People's Government of Haizhu District, Guangzhou.
+- *2023* — **2nd Place**, ATEC Challenge on LLM-Generated News Detection.
+- *2023* — **2nd Place**, ICDM Challenge (Ant Group TuGraph) on Pretrained-Model-based Community Detection and Gang Mining.
+- *2023* — **2nd Place**, Digital China Innovation Contest (DCIC) — Data Development Track.
+- *2023* — **2nd Prize (National)**, Baidu Business AI Technology Innovation Competition — National Finals.
+- *2023* — **2nd Prize (National)**, China Collegiate Computing Contest — Big Data Challenge.
+- *2022* — **2nd Place**, ATEC Tech Elite Competition — Digital Security Track.
 
 # 📖 Education
 - *2022.09 – 2025.06*, **M.Eng. in Software Engineering**, Huazhong University of Science and Technology (HUST), Wuhan, China.
