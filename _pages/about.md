@@ -16,9 +16,6 @@ My path into research ran through competition rather than the lab. I spent most 
 
 Today I research at the Foundation Model Research Group at **Mango TV**, after algorithm internships on the foundation-model SFT teams at **Tencent (Hunyuan)** and **Meituan (Longcat)** (details in *Work Experience* and *Internships* below). That competitive breadth still shows on the record: **8 First-Place** and **8 Second-Place** finishes in major AI contests, with cumulative prizes exceeding **$530,000**.
 
-> **I am actively seeking research collaborations and research internship opportunities.** Feel free to reach out — my contact details are at the bottom of this page.
-
-
 # 🔥 News
 - *2026.05*: &nbsp;🎉 Our paper *Mitigating Evidence Misalignment in Agentic Long Video Understanding by Decoupling Answer Authority* is accepted by **ICML 2026** as a Poster.
 - *2026.03*: &nbsp;🏆 Won **1st Place** at the **CVPR 2026 NTIRE Challenge** on X-AIGC Quality Assessment in Image Editing.
