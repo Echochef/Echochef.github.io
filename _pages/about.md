@@ -16,7 +16,7 @@ My path into research ran through competition rather than the lab. I spent most 
 
 Today I research at the Foundation Model Research Group at **Mango TV**, after algorithm internships on the foundation-model SFT teams at **Tencent (Hunyuan)** and **Meituan (Longcat)** (details in *Work Experience* and *Internships* below). That competitive breadth still shows on the record: **8 First-Place** and **8 Second-Place** finishes in major AI contests, with cumulative prizes exceeding **$530,000**.
 
-> **I am applying to PhD programs in North America for Fall 2027, and I am actively seeking research collaborations and research internship opportunities.** Feel free to reach out — my contact details are at the bottom of this page.
+> **I am actively seeking research collaborations and research internship opportunities.** Feel free to reach out — my contact details are at the bottom of this page.
 
 
 # 🔥 News
