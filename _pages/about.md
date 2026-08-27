@@ -14,14 +14,13 @@ I am **Chenhao Qiu (邱晨浩)**, an AI researcher studying **misalignment in ag
 
 My path into research ran through competition rather than the lab. I spent most of my master's deep in **algorithm contests**, working across nearly the full stack of machine learning — from traditional **data mining** and **time-series** modeling to **computer vision**, **NLP**, and, more recently, **large language and multimodal models**. Competing across so many directions is where my taste for research took shape: I kept hitting questions the leaderboard could not answer. It was only after starting full-time work that I finally had the room to chase those questions properly and turn them into papers — **ICML 2026** is the first.
 
-Today I research at the Foundation Model Research Group at **Mango TV**, after algorithm internships on the foundation-model SFT teams at **Tencent (Hunyuan)** and **Meituan (Longcat)** (details in *Work Experience* and *Internships* below). That competitive breadth still shows on the record: **8 First-Place** and **8 Second-Place** finishes in major AI contests, with cumulative prizes exceeding **$530,000**.
+I previously completed algorithm internships on the foundation-model SFT teams at **Tencent (Hunyuan)** and **Meituan (Longcat)** (details in *Internships* below). That competitive breadth still shows on the record: **8 First-Place** and **8 Second-Place** finishes in major AI contests, with cumulative prizes exceeding **$530,000**.
 
 # 🔥 News
 - *2026.05*: &nbsp;🎉 Our paper *Mitigating Evidence Misalignment in Agentic Long Video Understanding by Decoupling Answer Authority* is accepted by **ICML 2026** as a Poster.
 - *2026.03*: &nbsp;🏆 Won **1st Place** at the **CVPR 2026 NTIRE Challenge** on X-AIGC Quality Assessment in Image Editing.
 - *2025.11*: &nbsp;🏆 Won **1st Place** at the **Tencent Advertising Algorithm Competition** (1 / 8300+, prize ≈ $280K).
 - *2025.09*: &nbsp;🏆 Won **1st Place** at the **ICCV 2025 Challenge** on Visual Question Answering with Spatial Awareness.
-- *2025.07*: &nbsp;🚀 Started as an AI Researcher in the Foundation Model Research Group at **Mango TV**.
 
 # 📝 Publications
 
@@ -76,11 +75,8 @@ Today I research at the Foundation Model Research Group at **Mango TV**, after a
 - *2018.09 – 2022.06*, **B.Eng. in Software Engineering**, Nanchang University, Nanchang, China.
 
 # 💼 Work Experience
-- *2025.07 – Present*, **AI Researcher**, Foundation Model Research Group, **Mango TV**, Changsha.
-  - **Multimodal Video Understanding:** Lead the R&D of multimodal understanding algorithms for intelligent media-asset management; built a shot-level structured parsing framework for long-form videos integrating face recognition, visual semantic modeling, and MLLMs.
-  - **Independent Academic Research:** Distilled real-world industrial pipelines and SOTA literature tracking into a first-author **ICML 2026** paper on evidence misalignment in MLLM agents.
-  - **Competition Organization:** Key role in the **2026 Mango TV Algorithm Competition** — task design, data construction & annotation standards, and baseline solutions. Proposal submitted to **ACM MM**.
-  - **International Challenge Leadership:** Sole contributor leading the department's international competition track — **1st Place** at both ICCV 2025 Challenge and CVPR 2026 Challenge.
+- *2025.07 – 2026.08*, **AI Researcher**, Foundation Model Research Group, **Mango TV**, Changsha.
+  - **Personal Assessment:** The worst company I have ever worked for.
 
 # 💻 Internships
 - *2024.06 – 2024.09*, **Algorithm Intern**, Foundation Model SFT Team, **Tencent (Hunyuan)**, Shenzhen.
