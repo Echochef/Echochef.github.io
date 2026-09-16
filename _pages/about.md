@@ -76,7 +76,6 @@ I previously completed algorithm internships on the foundation-model SFT teams a
 
 # 💼 Work Experience
 - *2025.07 – 2026.08*, **AI Researcher**, Foundation Model Research Group, **Mango TV**, Changsha.
-  - **Personal Assessment:** The worst company I have ever worked for.
 
 # 💻 Internships
 - *2024.06 – 2024.09*, **Algorithm Intern**, Foundation Model SFT Team, **Tencent (Hunyuan)**, Shenzhen.
