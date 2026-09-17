@@ -87,6 +87,34 @@
 
 }
 
+// Keep the OPD-Aha publication compact without changing other entries.
+#opd-aha {
+    align-items: flex-start;
+    padding: 1em 0;
+
+    .paper-box-text {
+        p, li {
+            line-height: 1.4;
+        }
+        p {
+            margin: 0 0 .45em;
+        }
+        ul {
+            margin: .5em 0 0;
+            padding-left: 1.2em;
+        }
+        li {
+            margin-bottom: .3em;
+        }
+        li:last-child {
+            margin-bottom: 0;
+        }
+    }
+    .paper-box-image img {
+        display: block;
+    }
+}
+
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 
