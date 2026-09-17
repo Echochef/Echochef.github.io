@@ -17,12 +17,37 @@ My path into research ran through competition rather than the lab. I spent most 
 I previously completed algorithm internships on the foundation-model SFT teams at **Tencent (Hunyuan)** and **Meituan (Longcat)** (details in *Internships* below). That competitive breadth still shows on the record: **8 First-Place** and **8 Second-Place** finishes in major AI contests, with cumulative prizes exceeding **$530,000**.
 
 # 🔥 News
+- *2026.09*: &nbsp;📄 [OPD-Aha](https://arxiv.org/abs/2609.16459) is now available on arXiv, with [code and models](https://github.com/Echochef/OPD-Aha) released.
 - *2026.05*: &nbsp;🎉 Our paper *Mitigating Evidence Misalignment in Agentic Long Video Understanding by Decoupling Answer Authority* is accepted by **ICML 2026** as a Poster.
 - *2026.03*: &nbsp;🏆 Won **1st Place** at the **CVPR 2026 NTIRE Challenge** on X-AIGC Quality Assessment in Image Editing.
 - *2025.11*: &nbsp;🏆 Won **1st Place** at the **Tencent Advertising Algorithm Competition** (1 / 8300+, prize ≈ $280K).
 - *2025.09*: &nbsp;🏆 Won **1st Place** at the **ICCV 2025 Challenge** on Visual Question Answering with Spatial Awareness.
 
 # 📝 Publications
+
+<div class="paper-box" id="opd-aha">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">arXiv 2026</div>
+      <a href="{{ '/images/opd-aha-method.png' | relative_url }}"><img src="{{ '/images/opd-aha-method.png' | relative_url }}" alt="OPD-Aha contrasts real-image and null-image teacher predictions to reconstruct supervision and enable visual reflection." width="100%" loading="lazy" /></a>
+    </div>
+  </div>
+  <div class="paper-box-text" markdown="1">
+
+[OPD-Aha: From Linguistic Momentum to Visual Reflection in Multimodal On-Policy Distillation](https://arxiv.org/abs/2609.16459)
+
+**Chenhao Qiu**, Dawei Li, Yechao Zhang, Lei Gong, Zhen Tan
+
+*arXiv preprint, September 2026.*
+
+[arXiv](https://arxiv.org/abs/2609.16459) · [PDF](https://arxiv.org/pdf/2609.16459) · [Code & Models](https://github.com/Echochef/OPD-Aha)
+
+- Identifies **linguistic momentum**: erroneous student prefixes pull the teacher away from visual evidence, causing corrective supervision to collapse.
+- Reconstructs distillation targets from the same teacher's **real-image versus visual-null contrast**, preserving visual correction under misleading agreement.
+- Enables **visual reflection**: students interrupt flawed reasoning and return to image evidence, improving fine-grained perception and multimodal reasoning.
+
+</div>
+</div>
 
 <div class="paper-box">
   <div class="paper-box-image">
