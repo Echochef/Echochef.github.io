@@ -11,6 +11,6 @@
 </script>
 
 <!-- For all browsers -->
-<link rel="stylesheet" href="assets/css/main.css">
+<link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}?v={% if site.github.build_revision %}{{ site.github.build_revision }}{% else %}{{ site.time | date: "%s" }}{% endif %}">
 
 <meta http-equiv="cleartype" content="on">
