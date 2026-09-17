@@ -42,9 +42,7 @@ I previously completed algorithm internships on the foundation-model SFT teams a
 
 [arXiv](https://arxiv.org/abs/2609.16459) · [PDF](https://arxiv.org/pdf/2609.16459) · [Code & Models](https://github.com/Echochef/OPD-Aha)
 
-- Identifies **linguistic momentum**: erroneous student prefixes pull the teacher away from visual evidence, causing corrective supervision to collapse.
-- Reconstructs distillation targets from the same teacher's **real-image versus visual-null contrast**, preserving visual correction under misleading agreement.
-- Enables **visual reflection**: students interrupt flawed reasoning and return to image evidence, improving fine-grained perception and multimodal reasoning.
+Reconstructs visual supervision through a **real–null teacher contrast**, enabling students to interrupt flawed reasoning and **reflect on image evidence**.
 
 </div>
 </div>
